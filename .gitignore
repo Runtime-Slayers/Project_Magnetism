@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE & editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.zencoder/
+.zenflow/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.synctex(busy)
+*.fls
+*.fdb_latexmk
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.upa
+*.upb
+
+# Output & generated files
+output/
+figures/*.png
+figures/*.pdf
+figures/*.jpg
+
+# Archives & zips
+*.zip
+paper_complete.zip
+paper_upload.zip
+preprints_submission*.zip
+
+# Simulation outputs
+sim_results.json

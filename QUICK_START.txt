@@ -1,0 +1,47 @@
+IMMEDIATE SOLUTION - USE OVERLEAF ONLINE COMPILER
+================================================
+
+Due to network connectivity issues preventing local LaTeX installation, 
+use this IMMEDIATE solution:
+
+STEP-BY-STEP GUIDE:
+==================
+
+1. ✅ I've opened Overleaf in your browser (or visit: https://www.overleaf.com)
+
+2. CREATE ACCOUNT (Free):
+   - Click "Register" 
+   - Use your email
+   - Verify email
+
+3. UPLOAD YOUR PAPER:
+   - Click "New Project" → "Upload Project"
+   - Click "Select a .zip file"
+   
+   BUT FIRST, create a ZIP file:
+   
+   📦 Creating ZIP file now...
+
+4. COMPILE:
+   - After upload, Overleaf automatically compiles
+   - Click "Recompile" button if needed
+   - PDF appears on right side
+
+5. DOWNLOAD:
+   - Click "Download PDF" button
+   - Your paper.pdf is ready!
+
+ALTERNATIVE - MANUAL UPLOAD:
+============================
+1. Go to Overleaf
+2. New Project → Blank Project
+3. Delete the default content
+4. Copy-paste your paper.tex content
+5. Click "Recompile"
+6. Download PDF
+
+YOUR PAPER IS READY TO UPLOAD!
+File location: C:\Users\brr33\Downloads\Project_Magnetism\paper.tex
+
+NO SOFTWARE INSTALLATION NEEDED WITH OVERLEAF!
+==============================================
